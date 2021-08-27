@@ -1,0 +1,16 @@
+/* .conuntries{
+    border: 2px solid tomato;
+    text-align: center;
+    margin: 10%;
+    padding: 10px 20%;
+} */
+.conuntry{
+    border: 3px solid hotpink;
+    text-align: center;
+    margin: 6%;
+    padding: 10px 20%;
+}
+#countries{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
